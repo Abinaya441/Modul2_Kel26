@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Modul 2 MDP 2021</string>
+    <string name="mulai">Mulai</string>
+    <string name="berikutnya">Berikutnya</string>
+    <string name="kelompok">Kelompok 26 MDP 2021</string>
+    <string name="anggota">
+        Rizaldy Imam - 21120119140119\n
+        Haickal Fattih - 21120119140131\n
+        M Abinaya Isaqofi - 21120119130039\n
+        Adzra Fatikha - 21120119120032
+    </string>
+</resources>
